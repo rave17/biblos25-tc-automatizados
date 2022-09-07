@@ -13,4 +13,11 @@ Esto ayudara al correcto orden de los casos de prueba y a una mejor organizacion
 
 * Se debe crear un perfil especifico en el navegador (chrome, explorer, etc) para ejecutar las pruebas automaticas, de esta manera se evitara algun conflicto durante la ejecucion de casos, ya que el perfil predeterminado de Chrome puede contener extensiones, marcadores, historial de navegación, etc., y es posible que no se cargue correctamente.
 * El archivo config.json guardara los datos de conexion y perfil de usuario a utilizar en el navegador web.
+* El front del AdminDotcms esta conformado por frames a los cuales debemos prestar atencion para poder trabajar con los editores de contenido.
 
+
+###Mejoras
+
+* Complementar y definir casos de prueba
+* Optimizar casos de prueba
+* Definir herramientas de reporte y posibilidad de integracion de casos de pruebas

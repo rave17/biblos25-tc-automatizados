@@ -1,0 +1,31 @@
+{
+   "CHROME_ENV": {
+       "CHROME_PATH": "C:\\Python\\WebDriver\\Chrome\\chromedriver.exe",
+       "CHROME_USER_PROFILE" : "C:\\Users\\rv4rg\\Desktop\\User Data\\Profile 2"
+   },
+  "BIBLOSP": {
+      "URL_LOGIN": "https://biblos.intranet.osde/dotAdmin/#/public/login",
+      "URL_MOD_ADM" : "https://biblos.intranet.osde/dotAdmin",
+      "URL_BUS_CONT" : "https://biblos.intranet.osde/dotAdmin/#/c/content",
+      "URL_NAV_CARP" : "https://biblos.intranet.osde/dotAdmin/#/c/workflow"
+  },
+  "BIBLOSPP": {
+      "URL_LOGIN": "https://pp01.biblos.intranet.osde/dotAdmin/#/public/login",
+      "URL_MOD_ADM" : "https://pp01.biblos.intranet.osde/dotAdmin",
+      "URL_BUS_CONT" : "https://pp01.biblos.intranet.osde/dotAdmin/#/c/content",
+      "URL_NAV_CARP" : "https://pp01.biblos.intranet.osde/dotAdmin/#/c/workflow"
+  },
+  "BIBLOST": {
+      "URL_LOGIN": "https://t01.biblos.intranet.osde/dotAdmin/#/public/login",
+      "URL_MOD_ADM" : "https://t01.biblos.intranet.osde/dotAdmin",
+      "URL_BUS_CONT" : "https://t01.biblos.intranet.osde/dotAdmin/#/c/content",
+      "URL_NAV_CARP" : "https://t01.biblos.intranet.osde/dotAdmin/#/c/workflow"
+  },
+  "BIBLOSD": {
+      "URL_LOGIN": "https://d01.biblos.intranet.osde/dotAdmin/#/public/login",
+      "URL_MOD_ADM" : "https://d01.biblos.intranet.osde/dotAdmin",
+      "URL_BUS_CONT" : "https://d01.biblos.intranet.osde/dotAdmin/#/c/content",
+      "URL_NAV_CARP" : "https://d01.biblos.intranet.osde/dotAdmin/#/c/workflow"
+  }
+}
+
